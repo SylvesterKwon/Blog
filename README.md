@@ -1,2 +1,3 @@
 # Blog
-자기소개용 웹페이지
+Sylvester Kwon's first repository.
+This repository is for learning basic syntax of HTML.
